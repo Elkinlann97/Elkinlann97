@@ -1,4 +1,4 @@
-# 👩‍💻 Andres Felipe Lozano Arboleda
+# 👩‍💻 Elkin Alonso Pérez Zapata
 
 [![GitHub](https://img.shields.io/badge/GitHub-andreslozano1313-181717?logo=github&style=flat-square)](https://github.com/andreslozano1313/andreslozano1313)
 
@@ -6,8 +6,7 @@
 
 ## 🌟 Sobre mí
 
-✨ ¡Hola! Soy *Andres Felipe Lozano *, apasionada por el *desarrollo fullstack *, la *Analitica de datos* y la creación de soluciones tecnologicas con la innovación.  
-💻 Como *Administrador Tecnologico, aplico buenas prácticas de **programación orientada a objetos* y promuevo el *código limpio y estructurado*.
+✨ ¡Hola! Soy *  Elkin Alonso Pérez *, apasionado por el *desarrollo fullstack *, la *Analitica de datos* y la creación de soluciones tecnologicas con la innovación.  
 
 ---
 
@@ -61,9 +60,6 @@
 
 ## 📚 Proyectos Destacados
 
-- 🚀 [*TutorialPython*](https://github.com/LillianaU/TutorialPython) — Curso práctico de introducción a Python.
-- 🔧 [*ApiRES*](https://github.com/LillianaU/ApiRES) — API REST completa en PHP.
-- 📄 [*ExportacionPDF*](https://github.com/LillianaU/ExportacionPDF) — Exportación de datos a PDF de forma dinámica.
 
 ---
 
